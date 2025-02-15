@@ -135,7 +135,7 @@ var config_data = `
       "defaultValue": "x"
     }
   ],
-  "postgame": [
+  "postmatch": [
     { "name": "Driver Skill",
       "code": "ds",
       "type": "radio",
