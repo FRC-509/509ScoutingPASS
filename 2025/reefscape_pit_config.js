@@ -11,7 +11,7 @@ var config_data = `
     },
     {
       "name": "Team #",
-      "code": "tn",
+      "code": "t",
       "type": "number"
     },
     {
