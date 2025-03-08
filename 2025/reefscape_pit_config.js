@@ -98,6 +98,36 @@ var config_data = `
       "code": "csf",
       "type": "bool"
     },
+
+    {
+      "name": "Can climb: ",
+      "code": "cli",
+      "type": "bool"
+    },
+
+    {
+      "name": "Can Pick Up Floor Coral: ",
+      "code": "cpc",
+      "type": "bool"
+    },
+
+    {
+      "name": "Can Pick Up Human Player Coral: ",
+      "code": "cph",
+      "type": "bool"
+    },
+
+    {
+      "name": "Can Pick Up Reef Algae: ",
+      "code": "cpr",
+      "type": "bool"
+    },
+
+    {
+      "name": "Can Pick Up Floor Algae: ",
+      "code": "cpa",
+      "type": "bool"
+    },
     
 
     
