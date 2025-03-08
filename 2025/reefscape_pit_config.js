@@ -63,13 +63,46 @@ var config_data = `
       "type": "bool"
     },
     {
-      "name": "Can score: ",
+      "name": "Can score L1: ",
       "code": "csa",
-      "type": "radio",
-      "choices": {
-        "a": "L1<br>",
-        "aa": "Can not<br>"
-      }
+      "type": "bool",
+      
+    },
+
+    {
+      "name": "Can score L2: ",
+      "code": "csb",
+      "type": "bool",
+      
+    },
+
+    {
+      "name": "Can score L3: ",
+      "code": "csc",
+      "type": "bool",
+      
+    },
+
+
+  {
+      "name": "Can score L4: ",
+      "code": "csd",
+      "type": "bool",
+      
+    },
+
+    {
+      "name": "Can score barge: ",
+      "code": "cse",
+      "type": "bool",
+      
+    },
+
+    {
+      "name": "Can score processor: ",
+      "code": "csf",
+      "type": "bool",
+      
     },
     {
       "name": "Can score: ",
