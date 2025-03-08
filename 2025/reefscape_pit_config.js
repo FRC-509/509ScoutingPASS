@@ -65,37 +65,37 @@ var config_data = `
 
     {
       "name": "Can score L1: ",
-      "code": "apr",
+      "code": "csa",
       "type": "bool"
     },
 
     {
       "name": "Can score L2: ",
-      "code": "apr",
+      "code": "csb",
       "type": "bool"
     },
 
     {
       "name": "Can score L3: ",
-      "code": "apr",
+      "code": "csc",
       "type": "bool"
     },
 
     {
       "name": "Can score L4: ",
-      "code": "apr",
+      "code": "csd",
       "type": "bool"
     },
 
     {
       "name": "Can score barge:  ",
-      "code": "apr",
+      "code": "cse",
       "type": "bool"
     },
 
     {
       "name": "Can score processor: ",
-      "code": "apr",
+      "code": "csf",
       "type": "bool"
     },
     
